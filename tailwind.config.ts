@@ -95,6 +95,7 @@ export default {
         "fade-in": "fade-in 0.6s ease-out",
         "glow-pulse": "glow-pulse 3s ease-in-out infinite",
         "gradient-shift": "gradient-shift 8s ease infinite",
+        "gradient-shift-slow": "gradient-shift 15s ease infinite",
         "float": "float 3s ease-in-out infinite",
       },
       backgroundSize: {

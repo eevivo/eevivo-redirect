@@ -55,7 +55,7 @@ const Index = () => {
               Visit BatteryProof.com
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </span>
-            <div className="absolute inset-0 bg-gradient-to-r from-primary via-secondary to-primary opacity-0 group-hover:opacity-100 transition-opacity duration-500 animate-gradient-shift bg-200" />
+            <div className="absolute inset-0 bg-gradient-to-r from-primary via-secondary to-primary opacity-0 group-hover:opacity-100 transition-opacity duration-500 animate-gradient-shift-slow bg-200" />
           </Button>
           
           <p className="mt-6 text-sm text-muted-foreground">
