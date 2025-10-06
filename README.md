@@ -1,5 +1,8 @@
 # To push to github pages
-just run npm run deploy. It fixes everything and pushes to gh-pages branch.
+just run 
+npm run build
+and then
+npm run deploy. It fixes everything and pushes to gh-pages branch.
 
 # Welcome to your Lovable project
 
