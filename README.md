@@ -1,5 +1,5 @@
 # To push to github pages
-just run 
+just run:
 npm run build
 and then
 npm run deploy. It fixes everything and pushes to gh-pages branch.
